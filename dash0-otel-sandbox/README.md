@@ -1,4 +1,4 @@
-# Module 3 - Platform Observability with Perses and Dash0
+# Platform Observability with Perses and Dash0
 
 ## Quick Start
 
