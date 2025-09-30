@@ -1,5 +1,5 @@
 # Dash0 Observability Demo
-![This tutorial is courtesy of Dash0](./images/dash0-logo.png)
+(./images/dash0-logo.png)
 
 # Observability for Platform Engineering
 
