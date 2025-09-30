@@ -22,7 +22,7 @@
 
 2.Go to Discover
 
-3.Create a new Index Pattern eg
+3.Create a new Index Pattern, for example
 
 ```bash
 otel-logs-*
