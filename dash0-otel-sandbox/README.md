@@ -6,12 +6,6 @@
 ./run.sh
 ```
 
-## Stop
-
-```bash
-docker compose down --remove-orphans
-```
-
 ## Services
 
 - Platform API: http://localhost:8080
@@ -40,3 +34,9 @@ otel-logs-*
 
 You can now view logs ingested from your Platform Service.
 
+
+## Stop
+
+```bash
+docker compose down --remove-orphans
+```
