@@ -35,7 +35,7 @@ services:
   perses:
     image: persesdev/perses:latest
     ports:
-      - "3000:8080"
+      - "3200:8080"
     volumes:
       - ./perses:/etc/perses/config:ro
       - ./perses/data:/var/lib/perses/db
