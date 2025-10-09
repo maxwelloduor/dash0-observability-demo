@@ -438,4 +438,3 @@ spec:
   variables: []
   duration: 5m
   refreshInterval: 0s
-  timezone: browser
